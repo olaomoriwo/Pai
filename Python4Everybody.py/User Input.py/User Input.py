@@ -1,0 +1,6 @@
+nam = input("Who are you?")
+print("Welcome, ", nam)
+nam = input("Why are you here?")
+print("I am here to learn ", nam)
+nam = input("Who introduced you to this?")
+print("I got introduced to this by ", nam)
