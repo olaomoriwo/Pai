@@ -10,3 +10,10 @@ try:
 except:
     istr = -1
 print("Second", istr)
+astr = "Just"
+try:
+    instr: int(astr)
+except:
+    instr = -2
+print("Second", instr)
+astr = "Justss"
