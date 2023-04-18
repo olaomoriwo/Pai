@@ -1,7 +1,7 @@
 from re import X
 
 
-x = 2 + 2
+x = 4 + 2
 print(x)
 x = 53672 + 235253
 print(x)

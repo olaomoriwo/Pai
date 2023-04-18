@@ -1,4 +1,4 @@
-nam = input("Who are you?")
+nam = input("Who are you?..")
 print("Welcome, ", nam)
 nam = input("Why are you here?")
 print("I am here to learn ", nam)
