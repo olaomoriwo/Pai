@@ -121,7 +121,7 @@ print(y)
 print(z)
 x = "Python is awesome"
 print(x)
-x = "Python"
+x = "Pyth"
 y = " is"
 z = " awesome"
 print(x, y, z)
@@ -296,3 +296,17 @@ x = memoryview(bytes(5))
 print(x)
 #display the data type of x:
 print(type(x))
+x = memoryview(bytes(10))
+#display x:
+print(x)
+x = list (("apple", "banana", "cherry"))
+#display x:
+print(x)
+#display the data type of x:
+print(type(x))
+x = tuple(("apple", "banana", "cherry"))
+#display x:
+print(x)
+x = 100
+y = 12
+print (x + y) 
