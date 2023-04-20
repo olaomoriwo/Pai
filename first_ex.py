@@ -310,3 +310,7 @@ print(x)
 x = 100
 y = 12
 print (x + y) 
+t = 100
+gh = 25
+jh = (t * gh)
+print(jh)
