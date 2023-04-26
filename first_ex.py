@@ -314,3 +314,7 @@ t = 100
 gh = 25
 jh = (t * gh)
 print(jh)
+x = memoryview(bytes(10))
+#display the data type x:
+print(type(x))
+x = tuple(("aree", "bree", "cherrrr"))
