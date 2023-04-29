@@ -318,3 +318,14 @@ x = memoryview(bytes(10))
 #display the data type x:
 print(type(x))
 x = tuple(("aree", "bree", "cherrrr"))
+#know parameters given in py
+x = 5
+y = "Hello, World"
+print(x, y)
+x = 10
+y = "This is a cold sobo"
+print(x)
+print(y)
+#This is a comment.
+print("Hello, World!")
+carname = ("Volvo")
